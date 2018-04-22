@@ -5,6 +5,9 @@ date: "April 21, 2018"
 output: html_document
 ---
 
+![fraiser](https://media3.giphy.com/media/14yca3woLM4kE0/giphy.gif?cid=e1bb72ff5adbfc1c79756f34454adc06)  
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -68,6 +71,25 @@ Once you have published, the whole world can see your repository!
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img7.png)
 
+# Branches
 Alright, so Let's talk about branches, These are the aspects for collaboration. Instead of always working in one specific master file and messing that up, we can work in branches and discuss whether or not we want changes.
 
+
+We use branches for features or edits or updates that we can experiment with before adding them into the master file. This is useful because you won't have those *final version* *seriously final version* problems. 
+
 ![](https://guides.github.com/activities/hello-world/branching.png)
+
+How do I do this? Just go to the branche section in the GitHub client and create a new branch. I will be naming mine *Gif* because I want to experiment with this markdown file by adding gifs to it. 
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img8.png)
+
+Make sure you are in the proper branch before experimenting.
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img9.png)
+
+So here we are in the Gif Branch. I want to add a gif to the title because I think it's a great idea.
+
+![This is way too meta](https://media.giphy.com/media/E21p4xYH9NgkIsrgsS/giphy.gif)  
+*Don't ask me how I did this, you'll...make fun of me*
+
+Now add a definition to your Github and Commit!
+
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img10.png)
