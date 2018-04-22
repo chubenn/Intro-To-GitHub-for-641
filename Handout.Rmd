@@ -93,3 +93,6 @@ So here we are in the Gif Branch. I want to add a gif to the title because I thi
 Now add a definition to your Github and Commit!
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img10.png)
+
+Now you have two branches, you can merge both branches into the master. That is, if you are happy with it.
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img11.png)
