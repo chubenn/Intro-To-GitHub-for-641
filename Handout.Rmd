@@ -96,3 +96,6 @@ Now add a definition to your Github and Commit!
 
 Now you have two branches, you can merge both branches into the master. That is, if you are happy with it.
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img11.png)
+
+GitHub will tell you if you did it right.
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img12.png)
