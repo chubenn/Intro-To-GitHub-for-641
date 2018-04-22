@@ -99,3 +99,7 @@ Now you have two branches, you can merge both branches into the master. That is,
 
 GitHub will tell you if you did it right.
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img12.png)
+
+I'd recommend deleting useless branches that have been incorporated because they will just mess you up in the future, plus it's redundant.
+
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img13.png)
