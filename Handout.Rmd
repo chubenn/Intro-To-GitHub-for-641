@@ -5,9 +5,6 @@ date: "April 21, 2018"
 output: html_document
 ---
 
-![fraiser](https://media3.giphy.com/media/14yca3woLM4kE0/giphy.gif?cid=e1bb72ff5adbfc1c79756f34454adc06)  
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -88,13 +85,15 @@ Make sure you are in the proper branch before experimenting.
 So here we are in the Gif Branch. I want to add a gif to the title because I think it's a great idea.
 
 ![This is way too meta](https://media.giphy.com/media/E21p4xYH9NgkIsrgsS/giphy.gif)  
-*Don't ask me how I did this, you'll...make fun of me*
+*This is an example of something you want to discuss before putting it in the final version*
 
 Now add a definition to your Github and Commit!
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img10.png)
 
-Now you have two branches, you can merge both branches into the master. That is, if you are happy with it.
+#Merging
+Now you have two branches, you can merge both branches into the master. That is, if you are happy with it. Let's say for example josue does NOT want a gif in the title, simply just remove it from the branch and press on. 
+
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img11.png)
 
 GitHub will tell you if you did it right.
@@ -103,3 +102,10 @@ GitHub will tell you if you did it right.
 I'd recommend deleting useless branches that have been incorporated because they will just mess you up in the future, plus it's redundant.
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img13.png)
+
+
+#Celebrate good times have fun!
+![celebrate](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![celebrate](https://media.giphy.com/media/axu6dFuca4HKM/giphy.gif)  
+![celebrate](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
+![celebrate](https://media.giphy.com/media/irbOGCtFm8LNC/giphy.gif)  
