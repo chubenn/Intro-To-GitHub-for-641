@@ -1,0 +1,56 @@
+---
+title: "Git R Done with GitHub"
+author: "Ben Chu & Josue Rodriguez"
+date: "April 21, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is largely stolen from *Jenny Bryan* and the handout for *stat 545*. If you want the much better handout just google *happygitwithR*
+
+#What is Git and why should I learn it?
+Git is simply a version control system, with the original purpose to help developers work together on software projects. It has it's own coding structure but for the purpose of this handout, we are going to be using the easy version. 
+
+
+This is done by using `repositories` or `repos` which are basically highly structured super powered team drive. The data science world has taken it a new level because of that open-science thingy.
+
+Simply put, it allows you to functionally keep control of multiple edits while working with other people
+
+####What are the benefits to it?
+**Exposure** If someone wants your code, they can just clone it from your Github.
+
+**Help each other** Let's say I want to advance someone else's code. I can fork a feature or fix bugs for them. Github will automatically notify the author and they can use keep or reject edits.
+
+
+##Why can't I copy and paste in a word file? Or just send people my R code?
+Because it's sloppy, nobody will hire you, and nobody likes having fifteen files called *Version 1*, *version 2* *final Version*, *The actual final version*. 
+
+People are afraid of change, think of why do we use gmail instead of writing letters and putting money on the letter and sending each other. Technology advances and people who take advantage of it waste less time.
+
+#What is Github?
+GitHub is a website that hosts your data, but it also has a software component that is very powerful and can be accessed directly through your code in `R`. So in a way yes, Github is like DropBox or Google Drive.
+
+
+There are plenty of alternatives to GitHub, but we are choosing to use this one because they have seemingly dominated the Git Field.
+
+##How do I get GitHub? Is it easy?
+Google `Github.com` and go to their website and make an account, while you are there download the software client for it. 
+
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img1.png)
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img2.png)
+
+Good Job. Though, I want to mention here that there are MUCH better clients for Git AND many ways to utilize Git. 
+
+#Step 1. Create a repository. 
+A repository is essentially a folder for a single project. I am going to be creating a Github project called `IntroToGit` which is a Rmarkdown file in which I explain how to use Github for a Regression class at Humboldt State University. 
+
+We start this by selecting new repository and just selecting a path or folder for you.
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img3.png)
+
+Nice! Fill your repository with nice and shiny things. At some point, you'll want to publish the repository so it can go up on your account on the github website. 
+
+For example, my repository consists of the rmarkdown file, the html file for it, and some screenshots for you to follow along. Actually, exactly this picture below.
+#![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img4.png)
