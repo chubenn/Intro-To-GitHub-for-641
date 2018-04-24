@@ -27,7 +27,7 @@ Simply put, it allows you to functionally keep control of multiple edits while w
 ##Why can't I copy and paste in a word file? Or just send people my R code?
 Because it's sloppy, nobody will hire you, and nobody likes having fifteen files called *Version 1*, *version 2* *final Version*, *The actual final version*. 
 
-People are afraid of change, think of why do we use gmail instead of writing letters and putting money on the letter and sending each other. Technology advances and people who take advantage of it waste less time.
+We develop new materials to make slightly easier, for example:why do we use gmail instead of writing letters and putting money on the letter and sending each other. Technology advances and people who utilize it have more time for fun. That's right, science = fun. 
 
 #What is Github?
 GitHub is a website that hosts your data, but it also has a software component that is very powerful and can be accessed directly through your code in `R`. So in a way yes, Github is like DropBox or Google Drive.
@@ -51,8 +51,11 @@ We start this by selecting new repository and just selecting a path or folder fo
 
 Nice! Fill your repository with nice and shiny things. At some point, you'll want to publish the repository so it can go up on your account on the github website. 
 
-For example, my repository consists of the rmarkdown file, the html file for it, and some screenshots for you to follow along. Actually, exactly this picture below.
-![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img4.png)
+For example, my repository consists of the rmarkdown file, the html file for it, and some screenshots for you to follow along. 
+
+Actually, exactly this picture below.
+![*This is only the first meta level*](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img4.png)
+
 
 Before you can publish you need to do three things. 
 
@@ -60,11 +63,13 @@ Before you can publish you need to do three things.
 * Add a description, don't be THAT person who has undetailed repositories
 * Lastly, commit the to the master folder (We will talk about branches in a little bit)
 
-![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img5.png)
-Look at that, I added a summary and description.
+![*Look at that, I added a summary and description, I'm already better than half the packages on github*
+](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img5.png)
+
+
+Now I'm gonna publish this thing.
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img6.png)
-Now I'm gonna publish this thing.
 
 Once you have published, the whole world can see your repository!
 
@@ -98,9 +103,16 @@ So here we are in the Gif Branch. I want to add a gif to the title because I thi
 
 Now add a definition to your Github and Commit!
 
-![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img10.png)
+![*Green plus signs indicate something was added, The orange circle indicate something was edited -- you can drill down to see more*](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img10.png)
 
-#Merging
+
+
+![*The red lines indicate removal of a line, while green lines indicate addition.*](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img14.png)
+
+
+#Merging*
+
+
 Now you have two branches, you can merge both branches into the master. That is, if you are happy with it. Let's say for example josue does NOT want a gif in the title, simply just remove it from the branch and press on. 
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img11.png)
@@ -115,11 +127,7 @@ GitHub will tell you if you did it right.
 #Now you've made your first repository and you've learned how to create branches! 
 
 
-
-###Q: What if I want to add something later?
-###A: Just update the summary, and push onto your master branch. 
 # Cloning 
-![*Red line indicate removal while green lines indicate addition*](https://media.giphy.com/media/4EEH5nXR6wqp0mql3K/giphy.gif) 
 
 * *Cloning* a repository
     + When you want a copy of someone's repository
