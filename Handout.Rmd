@@ -114,8 +114,8 @@ GitHub will tell you if you did it right.
 
 #Now you've made your first repository and you've learned how to create branches! 
 
-How about a little more?
-
+###Q: What if I want to add something later?
+###A: Just update the sumamry, and push onto your master branch. 
 # Cloning 
 
 * *Cloning* a repository
