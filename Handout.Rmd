@@ -117,12 +117,12 @@ GitHub will tell you if you did it right.
 # Cloning and Forking
 
 * *Cloning* a repo
-+ When you want a copy of someone's repository
-+ Some packages are not up to date or available on CRAN
+    + When you want a copy of someone's repository
+    + Some packages are not up to date or available on CRAN
 
 * What if you want to modify someone's repo? 
-+ *Fork* it
-+ Facilitates collaboration
+    + *Fork* it
+    + Facilitates collaboration
 
 ![](https://imgur.com/YaRH7aT.png)
 
