@@ -6,10 +6,9 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.align = "center")
 ```
 
-This is largely stolen from *Jenny Bryan* and the handout for *stat 545*. If you want the much better handout just google *happygitwithR*
 
 #What is Git and why should I learn it?
 Git is simply a version control system, with the original purpose to help developers work together on software projects. It has it's own coding structure but for the purpose of this handout, we are going to be using the easy version. 
@@ -99,7 +98,7 @@ Now you have two branches, you can merge both branches into the master. That is,
 GitHub will tell you if you did it right.
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img12.png)
 
-I'd recommend deleting useless branches that have been incorporated because they will just mess you up in the future, plus it's redundant.
+~~ I'd recommend deleting useless branches that have been incorporated because they will just mess you up in the future, plus it's redundant. ~~
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img13.png)
 
@@ -109,3 +108,18 @@ I'd recommend deleting useless branches that have been incorporated because they
 ![celebrate](https://media.giphy.com/media/axu6dFuca4HKM/giphy.gif)  
 ![celebrate](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
 ![celebrate](https://media.giphy.com/media/irbOGCtFm8LNC/giphy.gif)  
+
+# Cloning and Forking
+
+* *Cloning* a repo
++ When you want a copy of someone's repository
++ Some packages are not up to date or available on CRAN
+
+* What if you want to modify someone's repo? 
++ *Fork* it
++ Facilitates collaboration
+
+
+
+
+
