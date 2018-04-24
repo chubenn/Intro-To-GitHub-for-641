@@ -81,6 +81,11 @@ We use branches for features or edits or updates that we can experiment with bef
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 How do I do this? Just go to the branche section in the GitHub client and create a new branch. I will be naming mine *Gif* because I want to experiment with this markdown file by adding gifs to it. 
+
+
+![*Don't tempt me Ben Stiller, I'll do it*](https://media.giphy.com/media/wi8Ez1mwRcKGI/giphy.gif)
+
+
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img8.png)
 
 Make sure you are in the proper branch before experimenting.
@@ -107,12 +112,9 @@ GitHub will tell you if you did it right.
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img13.png)
 
+#Now you've made your first repository and you've learned how to create branches! 
 
-#Celebrate good times have fun!
-![celebrate](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-![celebrate](https://media.giphy.com/media/axu6dFuca4HKM/giphy.gif)  
-![celebrate](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
-![celebrate](https://media.giphy.com/media/irbOGCtFm8LNC/giphy.gif)  
+How about a little more?
 
 # Cloning 
 
@@ -155,4 +157,13 @@ GitHub will tell you if you did it right.
 * Fully integrated into RStudio
 
 
+Good on you, it's kinda difficult to learn but the best way to learn is just by doing. I'd recommend starting by just putting a small project on Github and editing a small change to see what happens.
+
+
+#Let's honor this moment by adding gifs!
+##Celebrate good times have fun!
+![celebrate](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![celebrate](https://media.giphy.com/media/axu6dFuca4HKM/giphy.gif)  
+![celebrate](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
+![celebrate](https://media.giphy.com/media/irbOGCtFm8LNC/giphy.gif)  
 
