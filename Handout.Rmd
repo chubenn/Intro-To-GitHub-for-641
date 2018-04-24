@@ -122,13 +122,13 @@ GitHub will tell you if you did it right.
 + *Fork* it
 + Facilitates collaboration
 
-![](https://imgur.com/YaRH7aT)
+![](https://imgur.com/YaRH7aT.png)
 
-![](https://imgur.com/g1g6CtS)
+![](https://imgur.com/g1g6CtS.png)
 
-![](https://imgur.com/2CdVnbF)
+![](https://imgur.com/2CdVnbF.png)
 
-![](https://imgur.com/Vu8H9hJ)
+![](https://imgur.com/Vu8H9hJ.png)
 
 
 
