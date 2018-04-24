@@ -112,15 +112,25 @@ GitHub will tell you if you did it right.
 ![celebrate](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
 ![celebrate](https://media.giphy.com/media/irbOGCtFm8LNC/giphy.gif)  
 
-# Cloning and Forking
+# Cloning 
 
-* *Cloning* a repo
+* *Cloning* a repository
     + When you want a copy of someone's repository
     + Some packages are not up to date or available on CRAN
+    + Allows you to track evoloution of a repository over time
+    
+* Cloning a repository can be useful for Psychology in case there is a particular package or research project that you would like to stay up to date with
 
-* What if you want to modify someone's repo? 
+# Forking
+
+* What if you want to modify someone's repository? 
     + *Fork* it
-    + Facilitates collaboration
+    
+* Forking a repository can allow for easy collaboration
+
+    + When working on projects together
+    + Group coding
+    + Being seen more often with open science and open data
 
 ![](https://imgur.com/YaRH7aT.png)
 
@@ -129,6 +139,18 @@ GitHub will tell you if you did it right.
 ![](https://imgur.com/2CdVnbF.png)
 
 ![](https://imgur.com/Vu8H9hJ.png)
+
+# Take home message
+
+* GitHub (or other versions of git) allow for version control, open science, and encourage collaboration
+
+    + Tough learning curve, but makes life a lot easier once you have it down
+* Makes you more marketable if knowledgeable
+* Lots of jargon associated with it
+
+    + Makes you sound smart when you use it
+
+* Fully integrated into RStudio
 
 
 
