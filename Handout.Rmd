@@ -61,8 +61,10 @@ Before you can publish you need to do three things.
 * Lastly, commit the to the master folder (We will talk about branches in a little bit)
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img5.png)
-![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img6.png)
+Look at that, I added a summary and description.
 
+![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img6.png)
+Now I'm gonna publish this thing.
 
 Once you have published, the whole world can see your repository!
 
