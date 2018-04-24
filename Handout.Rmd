@@ -63,7 +63,10 @@ Before you can publish you need to do three things.
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img5.png)
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img6.png)
 
+
 Once you have published, the whole world can see your repository!
+
+
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img7.png)
 
@@ -98,7 +101,7 @@ Now you have two branches, you can merge both branches into the master. That is,
 GitHub will tell you if you did it right.
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img12.png)
 
-~~ I'd recommend deleting useless branches that have been incorporated because they will just mess you up in the future, plus it's redundant. ~~
+~~I'd recommend deleting useless branches that have been incorporated because they will just mess you up in the future, plus it's redundant.~~
 
 ![](C:\Users\Branly Mclanbry\Documents\GitHub\IntroToGit\img13.png)
 
@@ -119,7 +122,13 @@ GitHub will tell you if you did it right.
 + *Fork* it
 + Facilitates collaboration
 
+![](https://imgur.com/YaRH7aT)
 
+![](https://imgur.com/g1g6CtS)
+
+![](https://imgur.com/2CdVnbF)
+
+![](https://imgur.com/Vu8H9hJ)
 
 
 
