@@ -117,7 +117,7 @@ GitHub will tell you if you did it right.
 
 
 ###Q: What if I want to add something later?
-###A: Just update the sumamry, and push onto your master branch. 
+###A: Just update the summary, and push onto your master branch. 
 # Cloning 
 ![*Red line indicate removal while green lines indicate addition*](https://media.giphy.com/media/4EEH5nXR6wqp0mql3K/giphy.gif) 
 
